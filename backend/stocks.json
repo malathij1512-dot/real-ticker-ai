@@ -1,0 +1,121 @@
+[
+{
+"ticker": "AAPL",
+"company": "Apple Inc",
+"price": 185.40,
+"change": 1.2,
+"volume": "78M",
+"history": {
+"months": ["Aug", "Sep", "Oct", "Nov", "Dec", "Jan"],
+"prices": [165, 168, 170, 175, 180, 185]
+}
+},
+
+{
+"ticker": "MSFT",
+"company": "Microsoft",
+"price": 412.30,
+"change": -0.5,
+"volume": "45M",
+"history": {
+"months": ["Aug", "Sep", "Oct", "Nov", "Dec", "Jan"],
+"prices": [430, 425, 420, 418, 415, 412]
+}
+},
+
+{
+"ticker": "GOOGL",
+"company": "Alphabet Inc",
+"price": 145.60,
+"change": 0.2,
+"volume": "32M",
+"history": {
+"months": ["Aug", "Sep", "Oct", "Nov", "Dec", "Jan"],
+"prices": [140, 142, 141, 143, 142, 145]
+}
+},
+
+{
+"ticker": "AMZN",
+"company": "Amazon",
+"price": 162.20,
+"change": 1.1,
+"volume": "50M",
+"history": {
+"months": ["Aug", "Sep", "Oct", "Nov", "Dec", "Jan"],
+"prices": [140, 145, 150, 155, 158, 162]
+}
+},
+
+{
+"ticker": "META",
+"company": "Meta Platforms",
+"price": 480.10,
+"change": -1.3,
+"volume": "28M",
+"history": {
+"months": ["Aug", "Sep", "Oct", "Nov", "Dec", "Jan"],
+"prices": [510, 500, 495, 490, 485, 480]
+}
+},
+
+{
+"ticker": "TSLA",
+"company": "Tesla Inc",
+"price": 225.50,
+"change": -0.4,
+"volume": "60M",
+"history": {
+"months": ["Aug", "Sep", "Oct", "Nov", "Dec", "Jan"],
+"prices": [260, 250, 245, 240, 235, 225]
+}
+},
+
+{
+"ticker": "NFLX",
+"company": "Netflix",
+"price": 610.30,
+"change": 0.3,
+"volume": "18M",
+"history": {
+"months": ["Aug", "Sep", "Oct", "Nov", "Dec", "Jan"],
+"prices": [600, 610, 605, 615, 608, 612]
+}
+},
+
+{
+"ticker": "NVDA",
+"company": "NVIDIA",
+"price": 720.80,
+"change": 2.0,
+"volume": "70M",
+"history": {
+"months": ["Aug", "Sep", "Oct", "Nov", "Dec", "Jan"],
+"prices": [620, 650, 680, 700, 710, 720]
+}
+},
+
+{
+"ticker": "ORCL",
+"company": "Oracle",
+"price": 118.90,
+"change": 0.1,
+"volume": "22M",
+"history": {
+"months": ["Aug", "Sep", "Oct", "Nov", "Dec", "Jan"],
+"prices": [118, 120, 119, 121, 120, 119]
+}
+},
+
+{
+"ticker": "IBM",
+"company": "IBM",
+"price": 172.40,
+"change": -0.7,
+"volume": "14M",
+"history": {
+"months": ["Aug", "Sep", "Oct", "Nov", "Dec", "Jan"],
+"prices": [190, 185, 180, 178, 175, 172]
+}
+}
+]
