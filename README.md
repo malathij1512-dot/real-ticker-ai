@@ -113,3 +113,5 @@ POST "/api/stocks/{ticker}/analyze"
 
 This is AI-generated analysis and not financial advice.
 Developed for technical assessment/demo purposes only.
+## Demo Video
+https://drive.google.com/file/d/1GepN0nFIIBBtFDhp681d8JCGz6A54KjO/view?usp=drivesdk
